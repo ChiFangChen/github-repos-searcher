@@ -1,12 +1,5 @@
 {
   "heading": "GitHub Repositories Searcher",
-  "searchLabel": "Repository Name",
-  "noData": "No data",
-  "language": "Language",
-  "anyLanguages": "Any languages",
-  "name": "Name",
-  "stars": "Stars",
-  "language": "Language",
-  "license": "License",
-  "lastPushedAt": "Last Pushed at"
+  "label": "Repository Name",
+  "noMoreData": "No more data"
 }
